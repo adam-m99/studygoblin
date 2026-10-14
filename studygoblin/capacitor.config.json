@@ -1,0 +1,8 @@
+{
+  "appId": "com.studygoblin.app",
+  "appName": "StudyGoblin",
+  "webDir": "www",
+  "backgroundColor": "#0e1116",
+  "ios": { "contentInset": "never", "backgroundColor": "#0e1116" },
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
